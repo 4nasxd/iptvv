@@ -221,10 +221,120 @@ https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" group-title="🇩🇿 الجزائر",Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 #         🇲🇦 MOROCCO - المغرب
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wJrfbDy/chada.png" group-title="🇲🇦 المغرب",Chada TV شدى
+############################################
+#         🇲🇦 MOROCCO - المغرب
+############################################
+
+#EXTINF:-1 tvg-country="MA" tvg-logo="https://i.imgur.com/PJYTfHi.png" group-title="🇲🇦 المغرب",2M
+http://5.253.46.190:8000/play/a0e9/index.m3u8
+
+#EXTINF:-1 tvg-id="2MMonde.ma@SD" tvg-country="MA" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="🇲🇦 المغرب",2M Monde
+https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+
+#EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-country="MA" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="🇲🇦 المغرب",2M Monde +1
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+
+#EXTINF:-1 tvg-id="AlAoula.ma@Inter" tvg-country="MA" tvg-logo="https://i.imgur.com/nq53d2N.png" group-title="🇲🇦 المغرب",Al Aoula Inter
+https://cdn.live.easybroadcast.io/ts_corp/73_aloula_w1dqfwm/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="AlAoula.ma@Inter" tvg-country="MA" group-title="🇲🇦 المغرب",Al Aoula International
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+
+#EXTINF:-1 tvg-id="AlAoula.ma@InterHD" tvg-country="MA" group-title="🇲🇦 المغرب",Al Aoula Inter HD (Opt-1)
+http://5.253.46.190:8000/play/a0ab/index.m3u8
+
+#EXTINF:-1 tvg-id="AlAoula.ma@InterHD" tvg-country="MA" group-title="🇲🇦 المغرب",Al Aoula Inter HD (Opt-2)
+http://5.253.46.190:8000/play/a0e8/index.m3u8
+
+#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 المغرب",Al Aoula Laayoune
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 المغرب",Al Aoula Laâyoune
+https://cdn.live.easybroadcast.io/abr_corp/73_laayoune_pgagr52/corp/73_laayoune_pgagr52_480p/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-id="AlMaghribia.ma@SD" tvg-country="MA" group-title="🇲🇦 المغرب",Al Maghribia
+https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-dash/almaghribia.mpd
+
+#EXTINF:-1 tvg-id="AlMaghribia.ma@HD" tvg-country="MA" group-title="🇲🇦 المغرب",Al Maghribia HD
+http://5.253.46.190:8000/play/a0af/index.m3u8
+
+#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 المغرب",Arrabiaa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+
+#EXTINF:-1 tvg-id="Arryadia.ma@SD" tvg-country="MA" group-title="🇲🇦 المغرب",Arryadia
+https://cdn.live.easybroadcast.io/abr_corp/73_arryadia_k2tgcj0/corp/73_arryadia_k2tgcj0_480p/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Arryadia.ma@HD" tvg-country="MA" group-title="🇲🇦 المغرب",Arryadia HD
+http://5.253.46.190:8000/play/a0bi/index.m3u8
+
+#EXTINF:-1 tvg-id="ArryadiaHD1.ma@HD" tvg-country="MA" group-title="🇲🇦 المغرب",Arryadia HD1 (Opt-1)
+http://5.253.46.190:8000/play/a0dq/index.m3u8
+
+#EXTINF:-1 tvg-id="ArryadiaHD1.ma@HD" tvg-country="MA" group-title="🇲🇦 المغرب",Arryadia HD1 (Opt-2)
+http://5.253.46.190:8000/play/a0dr/index.m3u8
+
+#EXTINF:-1 tvg-id="Assadissa.ma@SD" tvg-country="MA" group-title="🇲🇦 المغرب",Assadissa
+https://cdn.live.easybroadcast.io/abr_corp/73_assadissa_7b7u5n1/corp/73_assadissa_7b7u5n1_480p/chunks_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Assadissa.ma@HD" tvg-country="MA" group-title="🇲🇦 المغرب",Assadissa HD
+http://5.253.46.190:8000/play/a0ag/index.m3u8
+
+#EXTINF:-1 tvg-id="Athaqafia.ma@SD" tvg-country="MA" group-title="🇲🇦 المغرب",Athaqafia
+https://cdn.live.easybroadcast.io/ts_corp/73_arrabia_hthcj4p/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Athaqafia.ma@HD" tvg-country="MA" group-title="🇲🇦 المغرب",Athaqafia HD
+http://5.253.46.190:8000/play/a0ae/index.m3u8
+
+#EXTINF:-1 tvg-id="ChadaTV.ma@SD" tvg-logo="https://i.ibb.co/wJrfbDy/chada.png" tvg-country="MA" group-title="🇲🇦 المغرب",Chada TV شدى (Opt-1)
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
-#EXTINF:-1 tvg-country="MA" group-title="🇲🇦 المغرب",Chada TV
+
+#EXTINF:-1 tvg-id="ChadaTV.ma@SD" tvg-logo="https://i.ibb.co/wJrfbDy/chada.png" tvg-country="MA" group-title="🇲🇦 المغرب",Chada TV شدى (Opt-2)
+https://edge13.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ChadaTV.ma@SD" tvg-logo="https://i.ibb.co/wJrfbDy/chada.png" tvg-country="MA" group-title="🇲🇦 المغرب",Chada TV شدى (Opt-3)
 https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LaayouneTV.ma@SD" tvg-country="MA" group-title="🇲🇦 المغرب",Laayoune TV
+https://cdn.live.easybroadcast.io/ts_corp/73_laayoune_pgagr52/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="LaayouneTV.ma@HD" tvg-country="MA" group-title="🇲🇦 المغرب",Laayoune TV HD
+http://5.253.46.190:8000/play/a0ac/index.m3u8
+
+#EXTINF:-1 tvg-country="MA" tvg-logo="https://i.imgur.com/7uv5Feu.png" group-title="🇲🇦 المغرب",M24 TV
+https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8
+
+#EXTINF:-1 tvg-id="Medi1TVAfrique.ma@SD" tvg-country="MA" group-title="🇲🇦 المغرب",Medi 1 TV Afrique
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="Medi1TVArabic.ma@SD" tvg-country="MA" tvg-logo="https://i.imgur.com/n7Wr9mR.png" group-title="🇲🇦 المغرب",Medi 1 TV Arabic (Opt-1)
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Medi1TVArabic.ma@SD" tvg-country="MA" group-title="🇲🇦 المغرب",Medi 1 TV Arabic (Opt-2)
+https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma@SD" tvg-country="MA" group-title="🇲🇦 المغرب",Medi 1 TV Maghreb
+https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma@SD" tvg-country="MA" group-title="🇲🇦 المغرب",Medi 1 TV Maghreb DVR
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="StoryChannelTV.ma@SD" tvg-country="MA" group-title="🇲🇦 المغرب",StoryChannel TV
+https://136044159.r.cdnsun.net/storychannel.m3u8
+
+#EXTINF:-1 tvg-id="TamazightTV.ma@SD" tvg-country="MA" group-title="🇲🇦 المغرب",Tamazight TV
+https://fl1002.bozztv.com/ga-tamazight8/index.m3u8
+
+#EXTINF:-1 tvg-id="TamazightTV.ma@HD" tvg-country="MA" group-title="🇲🇦 المغرب",Tamazight TV HD
+http://5.253.46.190:8000/play/a0ah/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleMaroc.ma@SD" tvg-country="MA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Logotelemaroc.jpeg" group-title="🇲🇦 المغرب",Télé Maroc (Opt-1)
+https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
+
+#EXTINF:-1 tvg-id="TeleMaroc.ma@SD" tvg-country="MA" group-title="🇲🇦 المغرب",Télé Maroc (Opt-2)
+http://5.253.46.190:8000/play/a0cb/index.m3u8
+
+#EXTINF:-1 tvg-id="Aflam.ma" tvg-country="MA" tvg-logo="https://i.imgur.com/XqQxO9J.png" group-title="🇲🇦 المغرب",Aflam TV
+https://fl1002.bozztv.com/ga-aflamtv7/index.m3u8
 #EXTINF:-1 tvg-country="MA" group-title="🇲🇦 المغرب",Medi 1 TV Afrique DVR
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
 #EXTINF:-1 tvg-country="MA" group-title="🇲🇦 المغرب",Medi 1 TV Maghreb DVR
