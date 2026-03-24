@@ -855,12 +855,12 @@ http://cyber4k.sytes.net:8080/live/a165/a/3997.m3u8
 http://cyber4k.sytes.net:8080/live/a165/a/3998.m3u8
 
 ############################################
-#       ⚽ Arabic Sports - الرياضة العربية
+#       ⚽ AR Sports - الرياضة العربية
 ############################################
 
-#EXTINF:-1 tvg-id="SharjahSports.ae@SD" group-title="Arabic Sports",Sharjah Sports (Opt-1)
+#EXTINF:-1 tvg-id="SharjahSports.ae@SD" group-title="AR Sports",Sharjah Sports (Opt-1)
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SharjahSports.ae@SD" group-title="Arabic Sports",Sharjah Sports (Opt-2)
+#EXTINF:-1 tvg-id="SharjahSports.ae@SD" group-title="AR Sports",Sharjah Sports (Opt-2)
 https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 
 
@@ -892,8 +892,14 @@ https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/El_Toro_TV_logo.svg/512px-El_Toro_TV_logo.svg.png" group-title="España Sports",El Toro TV (720p)
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Realmadrid_Television_Logo.svg/512px-Realmadrid_Television_Logo.svg.png" group-title="España Sports",Real Madrid TV
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Realmadrid_Television_Logo.svg/512px-Realmadrid_Television_Logo.svg.png" group-title="España Sports",Real Madrid TV (1080p)
 https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Realmadrid_Television_Logo.svg/512px-Realmadrid_Television_Logo.svg.png" group-title="España Sports",Real Madrid TV (Auto)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Realmadrid_Television_Logo.svg/512px-Realmadrid_Television_Logo.svg.png" group-title="España Sports",Real Madrid TV (Backup)
+https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 #EXTINF:-1 tvg-id="BarcelonaTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg" group-title="España Sports",Barça TV
 https://bcovlive-a.akamaihd.net/0b3a7c3e0b7743d5b2e8c88e0f52ff1c/eu-west-1/6057955906001/profile_0/chunklist.m3u8
@@ -957,8 +963,8 @@ https://helga.iptv2022.com/sh/trt_1/index.m3u8
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000163249127-onw500-t240x240.jpg" group-title="📰 أخبار",الجزيرة مباشر
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="📰 أخبار",Al Jazeera Arabic (Opt-1)
-#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="📰 أخبار",Al Jazeera Arabic (Opt-2)
+#EXTINF:-1 tvg-id="AlJazeera.qa@AR" group-title="📰 أخبار",Al Jazeera AR (Opt-1)
+#EXTINF:-1 tvg-id="AlJazeera.qa@AR" group-title="📰 أخبار",Al Jazeera AR (Opt-2)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.qa@SD" group-title="📰 أخبار",Al Jazeera Mubasher (Opt-1)
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.qa@SD" group-title="📰 أخبار",Al Jazeera Mubasher (Opt-2)
@@ -1001,8 +1007,8 @@ https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlHiwarTV.uk@SD" group-title="📰 أخبار",Alhiwar TV (Alt)
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCArabic.net" tvg-logo="https://i.ibb.co/yRc4rDX/bbcar.png" group-title="📰 أخبار",بي بي سي عربي
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCAR.net" tvg-logo="https://i.ibb.co/yRc4rDX/bbcar.png" group-title="📰 أخبار",بي بي سي عربي
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_AR_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="SkyNwsArabia.nws" tvg-logo="https://i.ibb.co/fFyvbrC/skynewsar.png" group-title="📰 أخبار",سكاي نيوز عربية
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae@HD" group-title="📰 أخبار",Sky News Arabia (HD)
@@ -1011,7 +1017,7 @@ https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/ind
 https://stream.shams.tv/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fmvtnr7/dw-ar.png" group-title="📰 أخبار",صوت ألمانيا DW
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-id="DW.de@Arabic" group-title="📰 أخبار",DW Arabic (Alt)
+#EXTINF:-1 tvg-id="DW.de@AR" group-title="📰 أخبار",DW AR (Alt)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 #EXTINF:-1 tvg-id="DW.de@English" group-title="📰 أخبار",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
@@ -1021,7 +1027,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5KW5f2K/france24ar.png" group-title="📰 أخبار",فرنسا 24
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Arabic" group-title="📰 أخبار",France 24 Arabic (Alt)
+#EXTINF:-1 tvg-id="France24.fr@AR" group-title="📰 أخبار",France 24 AR (Alt)
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr@English" group-title="📰 أخبار",France 24 English (1080p)
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
@@ -1121,7 +1127,7 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png" group-title="🇸🇦 السعودية",SPACETOON (Opt-1)
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:-1 tvg-id="SpacetoonArabic.ae@SD" group-title="🇸🇦 السعودية",SPACETOON (Opt-2)
+#EXTINF:-1 tvg-id="SpacetoonAR.ae@SD" group-title="🇸🇦 السعودية",SPACETOON (Opt-2)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
 #EXTINF:-1 tvg-id="MBCBollywood.ae@SD" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_egypt_9f7d59dcbe.svg" group-title="🇸🇦 السعودية",MBC Bollywood
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
@@ -1370,7 +1376,7 @@ https://edge19.vedge.infomaniak.com/livecast/ik:chadatv/playlist.m3u8
 http://5.253.46.190:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-id="Medi1TVAfrique.ma@SD" tvg-country="MA" group-title="🇲🇦 المغرب",Medi 1 TV Afrique
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="Medi1TVArabic.ma@SD" tvg-country="MA" group-title="🇲🇦 المغرب",Medi 1 TV Arabic (Opt-2)
+#EXTINF:-1 tvg-id="Medi1TVAR.ma@SD" tvg-country="MA" group-title="🇲🇦 المغرب",Medi 1 TV AR (Opt-2)
 https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVMaghreb.ma@SD" tvg-country="MA" group-title="🇲🇦 المغرب",Medi 1 TV Maghreb
 https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
