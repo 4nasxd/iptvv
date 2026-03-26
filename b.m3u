@@ -2,9 +2,10 @@
 ############################################
 #               Temp
 ############################################
-#EXTINF:-1 tvg-id="" tvg-name="SI SAID LGJHAZAL SPORTS" tvg-logo="" group-title="Match",France VS Brazil
+#EXTINF:-1 tvg-id="" tvg-name="SI SAID LGJHAZAL SPORTS" tvg-logo="" group-title="Live Match",SI SAID LGJHAZAL SPORTS
 https://simorayane.cachefly.net/hls/simo2005/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="SI SAID LGJHAZAL SPORTS" tvg-logo="" group-title="Live Match",SI SAID LGJHAZAL SPORTS
+https://fawatv.online/live/F2E62CEFFF6C6F88C237BD9DF4957C35/239.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="THMANYAH 1 FHD" tvg-logo="" group-title="THAMANAYH",THMANYAH 1 FHD
 http://cyber4k.sytes.net:8080/live/a165/a/1561.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="THMANYAH 2 FHD  " tvg-logo="" group-title="THAMANAYH",THMANYAH 2 FHD  
