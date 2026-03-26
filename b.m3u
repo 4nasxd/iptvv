@@ -2,6 +2,8 @@
 ############################################
 #               Temp
 ############################################
+#EXTINF:-1 tvg-id="" tvg-name="SI SAID LGJHAZAL SPORTS" tvg-logo="" group-title="Match",France VS Brazil
+https://simorayane.cachefly.net/hls/simo2005/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="THMANYAH 1 FHD" tvg-logo="" group-title="THAMANAYH",THMANYAH 1 FHD
 http://cyber4k.sytes.net:8080/live/a165/a/1561.m3u8
