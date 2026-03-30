@@ -2,8 +2,15 @@
 ############################################
 #               Temp
 ############################################
-#EXTINF:-1 tvg-id="" tvg-name="SI SAID LGJHAZAL SPORTS" tvg-logo="" group-title="Live Match",SI SAID LGJHAZAL SPORTS
-https://simorayane.cachefly.net/hls/simo2005/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Live Match",Germany VS Ghana 1
+https://30.lifekora.com/splayer/Live1.php
+#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Live Match",Germany VS Ghana 2
+https://a4.kora-plus.dad/watch/b1.m3u8?token=D9BZ2X991CEiIib9MkXCIw&expires=1774903165
+#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Live Match",Germany VS Ghana 3
+https://a4.kora-plus.dad/watch/das.m3u8?token=RZ5xgOBBzyFqeHoXbyyczg&expires=1774903121
+#EXTINF:-1 tvg-id="" tvg-name="A" tvg-logo="" group-title="Live Match",Germany VS Ghana 4
+https://y44kn4nu.83870203.net:8443/hls/jpe9zodoh.m3u8?s=oTQEm9oho8oS9mKNluA3Xw&e=1774920956
+
 
 ############################################
 #       ⚽ AR Sports - الرياضة العربية
