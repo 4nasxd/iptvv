@@ -3,90 +3,74 @@
 #               Temp
 ############################################
 
-#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 1 FHD" tvg-logo="" group-title="FR SPORTS",FR: Bein Sport 1 FHD
-http://cyberiptv.sytes.net:88/live/aa832/aa/372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 2 FHD" tvg-logo="" group-title="FR SPORTS",FR: Bein Sport 2 FHD
-http://cyberiptv.sytes.net:88/live/aa832/aa/373.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 3 FHD" tvg-logo="" group-title="FR SPORTS",FR: Bein Sport 3 FHD
-http://cyberiptv.sytes.net:88/live/aa832/aa/376.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport Max 10 HD" tvg-logo="" group-title="FR SPORTS",FR: Bein Sport Max 10 HD
-http://cyberiptv.sytes.net:88/live/aa832/aa/383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 1 FHD" tvg-logo="" group-title="FR SPORTS",FR: RMC Sport 1 FHD
-http://cyberiptv.sytes.net:88/live/aa832/aa/385.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 2 FHD" tvg-logo="" group-title="FR SPORTS",FR: RMC Sport 2 FHD
-http://cyberiptv.sytes.net:88/live/aa832/aa/387.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 3 FHD" tvg-logo="http://iptv-volkan.net:8000/logo/chn/3928.png" group-title="FR SPORTS",FR: RMC Sport 3 FHD
-http://cyberiptv.sytes.net:88/live/aa832/aa/388.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 4 FHD" tvg-logo="http://iptv-volkan.net:8000/logo/chn/4153.png" group-title="FR SPORTS",FR: RMC Sport 4 FHD
-http://cyberiptv.sytes.net:88/live/aa832/aa/390.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 6 FHD" tvg-logo="" group-title="FR SPORTS",FR: RMC Sport 6 FHD
-http://cyberiptv.sytes.net:88/live/aa832/aa/392.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| InFo Sport HD" tvg-logo="" group-title="FR SPORTS",|FR| InFo Sport HD
-http://cyberiptv.sytes.net:88/live/aa832/aa/401.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR|  Canal+ Sport HD" tvg-logo="http://iptv-volkan.net:8000/logo/chn/277.png" group-title="FR SPORTS",|FR|  Canal+ Sport HD
-http://cyberiptv.sytes.net:88/live/aa832/aa/404.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR|  Canal+ Sport FHD" tvg-logo="" group-title="FR SPORTS",|FR|  Canal+ Sport FHD
-http://cyberiptv.sytes.net:88/live/aa832/aa/405.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| Equidia LiveHD" tvg-logo="" group-title="FR SPORTS",|FR| Equidia LiveHD
-http://cyberiptv.sytes.net:88/live/aa832/aa/408.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| Euro Sport 1 HD" tvg-logo="" group-title="FR SPORTS",|FR| Euro Sport 1 HD
-http://cyberiptv.sytes.net:88/live/aa832/aa/410.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| Euro Sport 2 HD" tvg-logo="" group-title="FR SPORTS",|FR| Euro Sport 2 HD
-http://cyberiptv.sytes.net:88/live/aa832/aa/411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| Canal+ Foot HD" tvg-logo="" group-title="FR SPORTS",|FR| Canal+ Foot HD
-http://cyberiptv.sytes.net:88/live/aa832/aa/412.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport News HD" tvg-logo="" group-title="beIN SPORTS 4K HEVC",beIN Sport News HD
-http://cyberiptv.sytes.net:88/live/aa832/aa/417.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Global HD" tvg-logo="" group-title="beIN SPORTS 4K HEVC",beIN Sport Global HD
-http://cyberiptv.sytes.net:88/live/aa832/aa/418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 4K" tvg-logo="" group-title="beIN SPORTS 4K HEVC",beIN SPORTS 1 4K
-http://cyberiptv.sytes.net:88/live/aa832/aa/419.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 4K" tvg-logo="" group-title="beIN SPORTS 4K HEVC",beIN SPORTS 2 4K
-http://cyberiptv.sytes.net:88/live/aa832/aa/420.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 4K" tvg-logo="" group-title="beIN SPORTS 4K HEVC",beIN SPORTS 3 4K
-http://cyberiptv.sytes.net:88/live/aa832/aa/421.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 4K" tvg-logo="" group-title="beIN SPORTS 4K HEVC",beIN SPORTS 4 4K
-http://cyberiptv.sytes.net:88/live/aa832/aa/422.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 4K" tvg-logo="" group-title="beIN SPORTS 4K HEVC",beIN SPORTS 5 4K
-http://cyberiptv.sytes.net:88/live/aa832/aa/423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 4K" tvg-logo="" group-title="beIN SPORTS 4K HEVC",beIN SPORTS 6 4K
-http://cyberiptv.sytes.net:88/live/aa832/aa/424.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 4K" tvg-logo="" group-title="beIN SPORTS 4K HEVC",beIN SPORTS 7 4K
-http://cyberiptv.sytes.net:88/live/aa832/aa/425.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 4K" tvg-logo="" group-title="beIN SPORTS 4K HEVC",beIN SPORTS 8 4K
-http://cyberiptv.sytes.net:88/live/aa832/aa/426.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 4K" tvg-logo="" group-title="beIN SPORTS 4K HEVC",beIN SPORTS 9 4K
-http://cyberiptv.sytes.net:88/live/aa832/aa/427.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 1 Sport 4K" tvg-logo="" group-title="THMANYAH",Thamanya 1 Sport 4K
-http://cyberiptv.sytes.net:88/live/aa832/aa/428.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 1 Sport HD" tvg-logo="" group-title="THMANYAH",Thamanya 1 Sport HD
-http://cyberiptv.sytes.net:88/live/aa832/aa/429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 1 Sport SD" tvg-logo="" group-title="THMANYAH",Thamanya 1 Sport SD
-http://cyberiptv.sytes.net:88/live/aa832/aa/430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 2 Sport 4K" tvg-logo="" group-title="THMANYAH",Thamanya 2 Sport 4K
-http://cyberiptv.sytes.net:88/live/aa832/aa/431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 2 Sport HD" tvg-logo="" group-title="THMANYAH",Thamanya 2 Sport HD
-http://cyberiptv.sytes.net:88/live/aa832/aa/432.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 2 Sport SD" tvg-logo="" group-title="THMANYAH",Thamanya 2 Sport SD
-http://cyberiptv.sytes.net:88/live/aa832/aa/433.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 3 Sport 4K" tvg-logo="" group-title="THMANYAH",Thamanya 3 Sport 4K
-http://cyberiptv.sytes.net:88/live/aa832/aa/434.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 3 Sport HD" tvg-logo="" group-title="THMANYAH",Thamanya 3 Sport HD
-http://cyberiptv.sytes.net:88/live/aa832/aa/435.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 3 Sport SD" tvg-logo="" group-title="THMANYAH",Thamanya 3 Sport SD
-http://cyberiptv.sytes.net:88/live/aa832/aa/436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport News HD" tvg-logo="" group-title="beIN SPORTS 4K",beIN Sport News HD
+http://cyberiptv.sytes.net:88/live/aa937/aa/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Global" tvg-logo="" group-title="beIN SPORTS 4K",beIN Sport Global
+http://cyberiptv.sytes.net:88/live/aa937/aa/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 4K" tvg-logo="" group-title="beIN SPORTS 4K",beIN SPORTS 1 4K
+http://cyberiptv.sytes.net:88/live/aa937/aa/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 4K" tvg-logo="" group-title="beIN SPORTS 4K",beIN SPORTS 2 4K
+http://cyberiptv.sytes.net:88/live/aa937/aa/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 4K" tvg-logo="" group-title="beIN SPORTS 4K",beIN SPORTS 3 4K
+http://cyberiptv.sytes.net:88/live/aa937/aa/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 4K" tvg-logo="" group-title="beIN SPORTS 4K",beIN SPORTS 4 4K
+http://cyberiptv.sytes.net:88/live/aa937/aa/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 4K" tvg-logo="" group-title="beIN SPORTS 4K",beIN SPORTS 5 4K
+http://cyberiptv.sytes.net:88/live/aa937/aa/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 4K" tvg-logo="" group-title="beIN SPORTS 4K",beIN SPORTS 6 4K
+http://cyberiptv.sytes.net:88/live/aa937/aa/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 4K" tvg-logo="" group-title="beIN SPORTS 4K",beIN SPORTS 7 4K
+http://cyberiptv.sytes.net:88/live/aa937/aa/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 4K" tvg-logo="" group-title="beIN SPORTS 4K",beIN SPORTS 8 4K
+http://cyberiptv.sytes.net:88/live/aa937/aa/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 4K" tvg-logo="" group-title="beIN SPORTS 4K",beIN SPORTS 9 4K
+http://cyberiptv.sytes.net:88/live/aa937/aa/11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 1 HD" tvg-logo="" group-title="ALWAN Package",Alwan Sport 1 HD
-http://cyberiptv.sytes.net:88/live/aa832/aa/437.m3u8
+http://cyberiptv.sytes.net:88/live/aa937/aa/12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 2 HD" tvg-logo="" group-title="ALWAN Package",Alwan Sport 2 HD
-http://cyberiptv.sytes.net:88/live/aa832/aa/438.m3u8
+http://cyberiptv.sytes.net:88/live/aa937/aa/13.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 3 HD" tvg-logo="" group-title="ALWAN Package",Alwan Sport 3 HD
-http://cyberiptv.sytes.net:88/live/aa832/aa/439.m3u8
+http://cyberiptv.sytes.net:88/live/aa937/aa/14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 4 HD" tvg-logo="" group-title="ALWAN Package",Alwan Sport 4 HD
-http://cyberiptv.sytes.net:88/live/aa832/aa/440.m3u8
+http://cyberiptv.sytes.net:88/live/aa937/aa/15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 5 HD" tvg-logo="" group-title="ALWAN Package",Alwan Sport 5 HD
-http://cyberiptv.sytes.net:88/live/aa832/aa/441.m3u8
+http://cyberiptv.sytes.net:88/live/aa937/aa/16.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alwan Sport 6 HD" tvg-logo="" group-title="ALWAN Package",Alwan Sport 6 HD
-http://cyberiptv.sytes.net:88/live/aa832/aa/442.m3u8
+http://cyberiptv.sytes.net:88/live/aa937/aa/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 1 FHD" tvg-logo="" group-title="FRANCE SPORTS",FR: Bein Sport 1 FHD
+http://cyberiptv.sytes.net:88/live/aa937/aa/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 2 FHD" tvg-logo="" group-title="FRANCE SPORTS",FR: Bein Sport 2 FHD
+http://cyberiptv.sytes.net:88/live/aa937/aa/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sport 3 FHD" tvg-logo="" group-title="FRANCE SPORTS",FR: Bein Sport 3 FHD
+http://cyberiptv.sytes.net:88/live/aa937/aa/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 1 HD" tvg-logo="" group-title="FRANCE SPORTS",FR: RMC Sport 1 HD
+http://cyberiptv.sytes.net:88/live/aa937/aa/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 1 FHD" tvg-logo="" group-title="FRANCE SPORTS",FR: RMC Sport 1 FHD
+http://cyberiptv.sytes.net:88/live/aa937/aa/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 2 FHD" tvg-logo="" group-title="FRANCE SPORTS",FR: RMC Sport 2 FHD
+http://cyberiptv.sytes.net:88/live/aa937/aa/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 3 HD" tvg-logo="http://iptv-volkan.net:8000/logo/chn/3928.png" group-title="FRANCE SPORTS",FR: RMC Sport 3 HD
+http://cyberiptv.sytes.net:88/live/aa937/aa/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 4 HD" tvg-logo="http://iptv-volkan.net:8000/logo/chn/4153.png" group-title="FRANCE SPORTS",FR: RMC Sport 4 HD
+http://cyberiptv.sytes.net:88/live/aa937/aa/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| InFo Sport HD" tvg-logo="" group-title="FRANCE SPORTS",|FR| InFo Sport HD
+http://cyberiptv.sytes.net:88/live/aa937/aa/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR|  Canal+ Sport FHD" tvg-logo="" group-title="FRANCE SPORTS",|FR|  Canal+ Sport FHD
+http://cyberiptv.sytes.net:88/live/aa937/aa/52.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Equidia LiveHD" tvg-logo="" group-title="FRANCE SPORTS",|FR| Equidia LiveHD
+http://cyberiptv.sytes.net:88/live/aa937/aa/55.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Euro Sport 1 HD" tvg-logo="" group-title="FRANCE SPORTS",|FR| Euro Sport 1 HD
+http://cyberiptv.sytes.net:88/live/aa937/aa/57.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Euro Sport 2 HD" tvg-logo="" group-title="FRANCE SPORTS",|FR| Euro Sport 2 HD
+http://cyberiptv.sytes.net:88/live/aa937/aa/58.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| Canal+ Foot HD" tvg-logo="" group-title="FRANCE SPORTS",|FR| Canal+ Foot HD
+http://cyberiptv.sytes.net:88/live/aa937/aa/59.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CA: Love Nature 4K" tvg-logo="" group-title="4K UHD TV",CA: Love Nature 4K
+http://cyberiptv.sytes.net:88/live/aa937/aa/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRAVELXP 4K" tvg-logo="" group-title="4K UHD TV",TRAVELXP 4K
+http://cyberiptv.sytes.net:88/live/aa937/aa/93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OCEAN Vibes 4K" tvg-logo="" group-title="4K UHD TV",OCEAN Vibes 4K
+http://cyberiptv.sytes.net:88/live/aa937/aa/96.m3u8
 
 ############################################
 #       ⚽ AR Sports - الرياضة العربية
