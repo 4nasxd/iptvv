@@ -6,6 +6,8 @@
 https://a4.kora-plus.dad/watch/b1.m3u8?token=U67EcBNi8ls24MQbHDxoAQ&expires=1775592869
 #EXTINF:-1 tvg-id="" tvg-name="Anas" tvg-logo="" group-title="Anas",beIN Sport 1 Option 2
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/tHpl6DYAv9jcy_sMor195SHA4fu9q9HVZXIxZ3BWLXuonZgv88_-l1FKe4FeMAPblyW7tVL5029qTy5FKF18Ug/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:-1 tvg-id="" tvg-name="Anas" tvg-logo="" group-title="Anas",beIN Sport 1 Option 3
+https://s3.us-east-2.amazonaws.com/46.c1/hls/1/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Anas" tvg-logo="" group-title="Anas",Bein Sport 11
 https://s3.us-east-2.amazonaws.com/46.c1/hls/1/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Anas" tvg-logo="" group-title="Anas",TNT Sport
