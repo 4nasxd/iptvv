@@ -3,18 +3,19 @@
 #               Temp
 ############################################
 #EXTINF:-1 tvg-id="" tvg-name="Anas" tvg-logo="" group-title="Anas",beIN Sport 1
-https://a4.kora-plus.dad/watch/b1.m3u8?token=U67EcBNi8ls24MQbHDxoAQ&expires=1775592869
+https://pull-hls-l11-sg01.tiktokcdn.com/game/stream-2136769655067639912.m3u8?expire=1776788006&sign=dc99a33d1dbb50319961acd29b4729c6
 #EXTINF:-1 tvg-id="" tvg-name="Anas" tvg-logo="" group-title="Anas",beIN Sport 1 Option 2
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/tHpl6DYAv9jcy_sMor195SHA4fu9q9HVZXIxZ3BWLXuonZgv88_-l1FKe4FeMAPblyW7tVL5029qTy5FKF18Ug/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+https://storage.googleapis.com/uhgertyobrixaovo3/mux_video_ts/index-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Anas" tvg-logo="" group-title="Anas",beIN Sport 1 Option 3
-https://s3.us-east-2.amazonaws.com/46.c1/hls/1/stream.m3u8
+https://storage.googleapis.com/uhgertyobrixaovo3/mux_video_ts1/index-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Anas" tvg-logo="" group-title="Anas",Bein Sport 11
-https://s3.us-east-2.amazonaws.com/46.c1/hls/1/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Anas" tvg-logo="" group-title="Anas",TNT Sport
-https://a3.kora-plus.dad/watch/aust2.m3u8?token=cvQA-52OBIo7cCdI6jSj0g&expires=1775592963
-#EXTINF:-1 tvg-id="" tvg-name="Anas" tvg-logo="" group-title="Anas",Sky Sport Austria
-https://a3.kora-plus.dad/watch/aust2.m3u8?token=cvQA-52OBIo7cCdI6jSj0g&expires=1775592963
-
+https://storage.googleapis.com/umnhfgeyrbgser/mux_video_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anas" tvg-logo="" group-title="Anas",BEin Sports 2
+https://d3h8gvxs6hajby.cloudfront.net/status/1/fronts.woff2?c09b6b
+#EXTINF:-1 tvg-id="" tvg-name="Anas" tvg-logo="" group-title="Anas",BEin Sports 22
+https://storage.googleapis.com/uhgertyobrixaovo1/mux_video_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anas" tvg-logo="" group-title="Anas",BEin Sports 222
+https://storage.googleapis.com/uhgertyobrixaovo1/mux_video_ts1/index-1.m3u8
 
 
 
