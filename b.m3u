@@ -2,12 +2,12 @@
 ############################################
 #               Temp
 ############################################
-#EXTINF:-1 tvg-id="" tvg-name="Paris VS Bayern" tvg-logo="" group-title="Champions League Anas",
+#EXTINF:-1 tvg-id="" tvg-name="Paris VS Bayern" tvg-logo="" group-title="Champions League Anas",Paris VS Bayern 
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/o8vFasXTxhGCve-iON8gRM7hVPqnYijB9J0TQiSxNpkHmHodz-0g-Tcigy4KgOVhPsUkUZEZiUTJvDgjCXA2Cw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_delta.m3u8?type=live
-#EXTINF:-1 tvg-id="" tvg-name="Paris VS Bayern 2" tvg-logo="" group-title="Champions League Anas",
+#EXTINF:-1 tvg-id="" tvg-name="Paris VS Bayern 2" tvg-logo="" group-title="Champions League Anas",Paris VS Bayern 2
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/nqlybkVVVWS4pymmNIzOOfgvtHwRkED5Fav2wWgiwB4QyIPUdptadqKc4jkKd45HAyq8efXBRevfXHKSuX9fUA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 
-#EXTINF:-1 tvg-id="" tvg-name="Paris VS Bayern 3" tvg-logo="" group-title="Champions League Anas",
+#EXTINF:-1 tvg-id="" tvg-name="Paris VS Bayern 3" tvg-logo="" group-title="Champions League Anas",Paris VS Bayern 3
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/o8vFasXTxhGCve-iON8gRM7hVPqnYijB9J0TQiSxNpkHmHodz-0g-Tcigy4KgOVhPsUkUZEZiUTJvDgjCXA2Cw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_delta.m3u8?type=live
 
 # =========================
