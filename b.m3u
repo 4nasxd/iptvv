@@ -10,6 +10,31 @@ https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/nqlybkVVVWS4pymmN
 #EXTINF:-1 tvg-id="Equidia.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="UCL",Paris VS Bayern 3
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/o8vFasXTxhGCve-iON8gRM7hVPqnYijB9J0TQiSxNpkHmHodz-0g-Tcigy4KgOVhPsUkUZEZiUTJvDgjCXA2Cw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_delta.m3u8?type=live
 
+
+# =========================
+# Europe Sports  
+# =========================
+#EXTINF:-1 tvg-id="Art Sport" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/9474/brand.gif?itok=9Mfg2dsG" group-title="Europe Sports",Art Sport 1 HD
+http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Art Sport" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/9474/brand.gif?itok=9Mfg2dsG" group-title="Europe Sports",Art Sport 2 HD
+http://79.127.207.193:80/ArtSport2/playlist.m3u8
+#EXTINF:-1 tvg-id="Art Sport" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/9474/brand.gif?itok=9Mfg2dsG" group-title="Europe Sports",,Art Sport 3 HD
+http://79.127.207.193:80/ArtSport3/playlist.m3u8
+#EXTINF:-1 tvg-id="Art Sport" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/9474/brand.gif?itok=9Mfg2dsG" group-title="Europe Sports",,Art Sport 4 HD
+http://79.127.207.193:80/ArtSport4/playlist.m3u8
+#EXTINF:-1 tvg-id="Art Sport" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/9474/brand.gif?itok=9Mfg2dsG" group-title="Europe Sports",,Art Sport 5 HD
+http://79.127.207.193:80/ArtSport5/playlist.m3u8
+#EXTINF:-1 tvg-id="Art Sport" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/9474/brand.gif?itok=9Mfg2dsG" group-title="Europe Sports",,Art Sport 6 HD
+http://79.127.207.193:80/ArtSport6/playlist.m3u8
+#EXTINF:-1, tvg-id="Art Sport" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/9474/brand.gif?itok=9Mfg2dsG" group-title="Europe Sports",Euro Sport 1 HD
+http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="Art Sport" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" group-title="Europe Sports",Euro Sport 2 HD
+http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" group-title="Europe Sports",Fight Network HD
+http://79.127.207.193:80/FightNetwork/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" group-title="Europe Sports",Rai Sport HD
+http://79.127.207.193:80/RaiSport/playlist.m3u8
+
 # =========================
 # 🇪🇸 ESPAÑA SPORTS
 # =========================
