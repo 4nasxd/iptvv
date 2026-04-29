@@ -42,7 +42,320 @@ http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
 http://79.127.207.193:80/FightNetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" group-title="Europe Sports",Rai Sport HD
 http://79.127.207.193:80/RaiSport/playlist.m3u8
+#EXTINF:-1 tvg-id="S Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Europe Sports",S Sport 1 HD
+http://lb.wisp.cat/lb0/TR_S_Sport_HD/video.m3u8?token=AUSnMTD
 
+#EXTINF:-1 tvg-id="S Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/S_Sport_logo.svg/200px-S_Sport_logo.svg.png" group-title="Europe Sports",S Sport 2 HD
+http://lb.wisp.cat/lb0/TR_S_Sport_2_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="SPORSMART 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Sporsmart_logo.png/200px-Sporsmart_logo.png" group-title="Europe Sports",SPORSMART 1 HD
+http://lb.wisp.cat/lb0/TR_SPORSMART/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="SPORSMART 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Sporsmart_logo.png/200px-Sporsmart_logo.png" group-title="Europe Sports",SPORSMART 2 HD
+http://lb.wisp.cat/lb0/TR_SPORSMART2/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Eurosport_1_Logo_2015.svg/200px-Eurosport_1_Logo_2015.svg.png" group-title="Europe Sports",EUROSPORT 1
+http://lb.wisp.cat/lb0/TR_EUROSPORT1/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Eurosport_2_Logo_2015.svg/200px-Eurosport_2_Logo_2015.svg.png" group-title="Europe Sports",EUROSPORT 2
+http://lb.wisp.cat/lb0/TR_EUROSPORT2/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Cosmosport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/c/c8/Cosmosport_logo.png/200px-Cosmosport_logo.png" group-title="Europe Sports",Cosmosport HD
+http://lb.wisp.cat/lb0/Cosmosport_HD_TR/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Tivibu Spor 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/8f/Tivibu_Spor_logo.png/200px-Tivibu_Spor_logo.png" group-title="Europe Sports",Tivibu Spor 1 HD
+http://lb.wisp.cat/lb0/TR_Tivibuspor1HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Tivibu Spor 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/8/8f/Tivibu_Spor_logo.png/200px-Tivibu_Spor_logo.png" group-title="Europe Sports",Tivibu Spor 2 HD
+http://lb.wisp.cat/lb0/TR_Tivibuspor2HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="A Spor HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/a/a2/A_Spor_logo.png/200px-A_Spor_logo.png" group-title="Europe Sports",A Spor HD
+http://lb.wisp.cat/lb0/TR_ASPOR/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Arena Sport 1 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_Sport_logo.png/200px-Arena_Sport_logo.png" group-title="Europe Sports",Arena Sport 1 HR 🇭🇷
+http://lb.wisp.cat/lb0/ArenaSport1_HR/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Arena Sport 3 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_Sport_logo.png/200px-Arena_Sport_logo.png" group-title="Europe Sports",Arena Sport 3 HR 🇭🇷
+http://lb.wisp.cat/lb0/ArenaSport3_HR/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Arena Sport 4 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_Sport_logo.png/200px-Arena_Sport_logo.png" group-title="Europe Sports",Arena Sport 4 HR 🇭🇷
+http://lb.wisp.cat/lb0/ArenaSport4_HR/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Arena Sport 5 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_Sport_logo.png/200px-Arena_Sport_logo.png" group-title="Europe Sports",Arena Sport 5 HR 🇭🇷
+http://lb.wisp.cat/lb0/ArenaSport5_HR/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Arena Sport 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_Sport_logo.png/200px-Arena_Sport_logo.png" group-title="Europe Sports",Arena Sport 6 HD 🇭🇷
+http://lb.wisp.cat/lb0/ArenaSport6_HR/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Arena Sport 6 HR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_Sport_logo.png/200px-Arena_Sport_logo.png" group-title="Europe Sports",Arena Sport 6 HR 🇭🇷
+https://hls8.ua3.wisp.cat/ArenaSport6_HR/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Arena 1 Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_Sport_logo.png/200px-Arena_Sport_logo.png" group-title="Europe Sports",Arena 1 Premium
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_1/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Arena 2 Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_Sport_logo.png/200px-Arena_Sport_logo.png" group-title="Europe Sports",Arena 2 Premium
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_2/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Arena 3 Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_Sport_logo.png/200px-Arena_Sport_logo.png" group-title="Europe Sports",Arena 3 Premium
+https://hls8.ua3.wisp.cat/Arena_Sport_Premium_3/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Polsat Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg" group-title="Europe Sports",Polsat Sport 1 HD
+http://lb.wisp.cat/lb0/PL_POLSAT_SPORT_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Polsat Canal 3 Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png" group-title="Europe Sports",Polsat Canal 3 Sport HD
+http://lb.wisp.cat/lb0/PL_CANAL_SPORT3HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Polsat Canal 4 Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png" group-title="Europe Sports",Polsat Canal 4 Sport HD
+http://lb.wisp.cat/lb0/PL_CANAL_SPORT4HDPL/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="CANAL+ Sport 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png" group-title="Europe Sports",CANAL+ Sport 5 HD
+http://lb.wisp.cat/lb0/PL_nSportPlusPL/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Sportklub HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sport_klub_logo.png/200px-Sport_klub_logo.png" group-title="Europe Sports",Sportklub HD
+http://lb.wisp.cat/lb0/PL_Sport_Klub_HD_Polska/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg" group-title="Europe Sports",Polsat Sport Premium 1
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_1/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg" group-title="Europe Sports",Polsat Sport Premium 2
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_2/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Polsat Sport Premium 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg" group-title="Europe Sports",Polsat Sport Premium 3
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_3/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Polsat Sport Premium PPV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg" group-title="Europe Sports",Polsat Sport Premium PPV 5
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV5/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Polsat Sport Premium PPV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg" group-title="Europe Sports",Polsat Sport Premium PPV 4
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV4/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Polsat Sport Premium PPV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg" group-title="Europe Sports",Polsat Sport Premium PPV 6
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV6/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Polsat Sport Fight HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg" group-title="Europe Sports",Polsat Sport Fight HD
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Fight_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Polsat Sport News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Polsat_Sport_2021_gradient.svg" group-title="Europe Sports",Polsat Sport News HD
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_News_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Eleven Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eleven_Sports_logo.svg/200px-Eleven_Sports_logo.svg.png" group-title="Europe Sports",Eleven Sports 1 HD
+http://lb.wisp.cat/lb0/PL_Eleven_Sports_1_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Eleven Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eleven_Sports_logo.svg/200px-Eleven_Sports_logo.svg.png" group-title="Europe Sports",Eleven Sports 2 HD
+http://lb.wisp.cat/lb0/PL_Eleven_Sports_2_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Eleven Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eleven_Sports_logo.svg/200px-Eleven_Sports_logo.svg.png" group-title="Europe Sports",Eleven Sports 3 HD
+http://lb.wisp.cat/lb0/PL_Eleven_Sports_3_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Eleven Sports 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eleven_Sports_logo.svg/200px-Eleven_Sports_logo.svg.png" group-title="Europe Sports",Eleven Sports 4 HD
+http://lb.wisp.cat/lb0/PL_ELEVEN_SPORTS_4_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="JOJ Sport HD CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/JOJ_Sport_logo.png/200px-JOJ_Sport_logo.png" group-title="Europe Sports",JOJ Sport HD CZ
+http://lb.wisp.cat/lb0/CZ_JOJ_SPORT_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Canal+ Sport 2 CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png" group-title="Europe Sports",Canal+ Sport 2 CZ
+http://lb.wisp.cat/lb0/Canal_plus_Sport_2_HD_CZ/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Canal+ Sport 3 CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png" group-title="Europe Sports",Canal+ Sport 3 CZ
+http://lb.wisp.cat/lb0/Canal_plus_Sport_3_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Canal+ Sport 4 CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png" group-title="Europe Sports",Canal+ Sport 4 CZ
+http://lb.wisp.cat/lb0/Canal_plus_Sport_4_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Canal+ Sport 5 CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2c/C%2B_Sport_%282023%29.png" group-title="Europe Sports",Canal+ Sport 5 CZ
+http://lb.wisp.cat/lb0/Canal_plus_Sport_5_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Premier Sport 1 HD CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Premier_Sport_logo.png/200px-Premier_Sport_logo.png" group-title="Europe Sports",Premier Sport 1 HD CZ
+http://lb.wisp.cat/lb0/CZ_Premier_sport_1_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Premier Sport 2 HD CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Premier_Sport_logo.png/200px-Premier_Sport_logo.png" group-title="Europe Sports",Premier Sport 2 HD CZ
+http://lb.wisp.cat/lb0/CZ_Premier_sport_2_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Premier Sport 3 HD CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Premier_Sport_logo.png/200px-Premier_Sport_logo.png" group-title="Europe Sports",Premier Sport 3 HD CZ
+http://lb.wisp.cat/lb0/CZ_Premier_sport_3_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Nova Sport HD BG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Nova_Sport_logo.svg/200px-Nova_Sport_logo.svg.png" group-title="Europe Sports",Nova Sport HD BG
+http://lb.wisp.cat/lb0/BG_Nova_Sport/index.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Nova Sport 1 HD CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Nova_Sport_logo.svg/200px-Nova_Sport_logo.svg.png" group-title="Europe Sports",Nova Sport 1 HD CZ
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT1_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Nova Sport 2 HD CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Nova_Sport_logo.svg/200px-Nova_Sport_logo.svg.png" group-title="Europe Sports",Nova Sport 2 HD CZ
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT2_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Nova Sport 4 HD CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Nova_Sport_logo.svg/200px-Nova_Sport_logo.svg.png" group-title="Europe Sports",Nova Sport 4 HD CZ
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT4_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Nova Sport 5 HD CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Nova_Sport_logo.svg/200px-Nova_Sport_logo.svg.png" group-title="Europe Sports",Nova Sport 5 HD CZ
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT5_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Nova Sport 6 HD CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Nova_Sport_logo.svg/200px-Nova_Sport_logo.svg.png" group-title="Europe Sports",Nova Sport 6 HD CZ
+http://lb.wisp.cat/lb0/CZ_NOVA_SPORT6_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Sport 1 HD CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sport1_Logo_2017.svg/200px-Sport1_Logo_2017.svg.png" group-title="Europe Sports",Sport 1 HD CZ
+http://lb.wisp.cat/lb0/CZ_SPORT1_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Sport 2 HD CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sport1_Logo_2017.svg/200px-Sport1_Logo_2017.svg.png" group-title="Europe Sports",Sport 2 HD CZ
+http://lb.wisp.cat/lb0/CZ_SPORT2_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Arena Sport 1 HD SVK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_Sport_logo.png/200px-Arena_Sport_logo.png" group-title="Europe Sports",Arena Sport 1 HD
+http://lb.wisp.cat/lb0/SVK_ARENA_SPORT1_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Arena Sport 2 HD SVK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arena_Sport_logo.png/200px-Arena_Sport_logo.png" group-title="Europe Sports",Arena Sport 2 HD
+http://lb.wisp.cat/lb0/SVK_ARENA_SPORT2_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="M4 Sport HD HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/M4_Sport_logo.svg/200px-M4_Sport_logo.svg.png" group-title="Europe Sports",M4 Sport HD Hu
+http://lb.wisp.cat/lb0/M4_Sport_HD_HU/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="RTSV Sport HD CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/RTS_logo.svg/200px-RTS_logo.svg.png" group-title="Europe Sports",RTSV Sport HD CZ
+http://lb.wisp.cat/lb0/CZ_RTSV_Sport_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Oneplay Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Oneplay_logo.png/200px-Oneplay_logo.png" group-title="Europe Sports",Oneplay Sport 1 HD
+http://lb.wisp.cat/lb0/Oneplay_Sport_1_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Oneplay Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Oneplay_logo.png/200px-Oneplay_logo.png" group-title="Europe Sports",Oneplay Sport 2 HD
+http://lb.wisp.cat/lb0/Oneplay_Sport_2_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Oneplay Sport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Oneplay_logo.png/200px-Oneplay_logo.png" group-title="Europe Sports",Oneplay Sport 3 HD
+http://lb.wisp.cat/lb0/Oneplay_Sport_3_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Oneplay Sport 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Oneplay_logo.png/200px-Oneplay_logo.png" group-title="Europe Sports",Oneplay Sport 4 HD
+http://lb.wisp.cat/lb0/Oneplay_Sport_4_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD CEE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Eurosport_1_Logo_2015.svg/200px-Eurosport_1_Logo_2015.svg.png" group-title="Europe Sports",Eurosport 1 HD CEE
+http://lb.wisp.cat/lb0/Eurosport_1_HD_CEE/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Eurosport 2 HD CEE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Eurosport_2_Logo_2015.svg/200px-Eurosport_2_Logo_2015.svg.png" group-title="Europe Sports",Eurosport 2 HD CEE
+http://lb.wisp.cat/lb0/Eurosport_2_HD_CEE/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="PRIME FIGHT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Prime_Video_logo.svg/200px-Prime_Video_logo.svg.png" group-title="Europe Sports",PRIME FIGHT HD
+http://lb.wisp.cat/lb0/PRIME_FIGHT_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Diema Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Diema_Sport_logo.png/200px-Diema_Sport_logo.png" group-title="Europe Sports",Diema Sport HD
+http://lb.wisp.cat/lb0/DIEMA_SPORT_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Diema Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Diema_Sport_logo.png/200px-Diema_Sport_logo.png" group-title="Europe Sports",Diema Sport 2 HD
+http://lb.wisp.cat/lb0/DIEMA_SPORT_2_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Diema Sport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Diema_Sport_logo.png/200px-Diema_Sport_logo.png" group-title="Europe Sports",Diema Sport 3 HD
+http://lb.wisp.cat/lb0/DIEMA_SPORT_3_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Diema Sport 3 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Diema_Sport_logo.png/200px-Diema_Sport_logo.png" group-title="Europe Sports",Diema Sport 3 UHD
+http://lb.wisp.cat/lb0/DIEMA_SPORT_3_UHD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="MAX SPORT 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Max_Sport_logo.png/200px-Max_Sport_logo.png" group-title="Europe Sports",MAX SPORT 1 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_1_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="MAX SPORT 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Max_Sport_logo.png/200px-Max_Sport_logo.png" group-title="Europe Sports",MAX SPORT 2 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_2_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="MAX SPORT 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Max_Sport_logo.png/200px-Max_Sport_logo.png" group-title="Europe Sports",MAX SPORT 3 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_3_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="MAX SPORT 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Max_Sport_logo.png/200px-Max_Sport_logo.png" group-title="Europe Sports",MAX SPORT 4 HD
+http://lb.wisp.cat/lb0/MAX_SPORT_4_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="RING HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ring_TV_logo.png/200px-Ring_TV_logo.png" group-title="Europe Sports",RING HD
+http://lb.wisp.cat/lb0/RING_TV_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Fight Club HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fight_Club_logo.png/200px-Fight_Club_logo.png" group-title="Europe Sports",Fight Club HD
+http://lb.wisp.cat/lb0/Fight_Club_HD_SM/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Prima Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/c/c5/Prima_Sport_logo.png/200px-Prima_Sport_logo.png" group-title="Europe Sports",Prima Sport 1 HD
+http://lb.wisp.cat/lb0/TelekomSport1HDRO/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Prima Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/c/c5/Prima_Sport_logo.png/200px-Prima_Sport_logo.png" group-title="Europe Sports",Prima Sport 2 HD
+http://lb.wisp.cat/lb0/TelekomSport2HDRO/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Prima Sport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/c/c5/Prima_Sport_logo.png/200px-Prima_Sport_logo.png" group-title="Europe Sports",Prima Sport 3 HD
+http://lb.wisp.cat/lb0/TelekomSport3HDRO/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Prima Sport 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/c/c5/Prima_Sport_logo.png/200px-Prima_Sport_logo.png" group-title="Europe Sports",Prima Sport 4 HD
+http://lb.wisp.cat/lb0/TelekomSport4HDRO/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Digi Sport 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Digi_Sport_logo.svg/200px-Digi_Sport_logo.svg.png" group-title="Europe Sports",Digi Sport 1 HD
+http://lb.wisp.cat/lb0/DigiSport_1_HD_RO/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Digi Sport 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Digi_Sport_logo.svg/200px-Digi_Sport_logo.svg.png" group-title="Europe Sports",Digi Sport 2 HD
+http://lb.wisp.cat/lb0/DigiSport_2_HD_RO/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Digi Sport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Digi_Sport_logo.svg/200px-Digi_Sport_logo.svg.png" group-title="Europe Sports",Digi Sport 3 HD
+http://lb.wisp.cat/lb0/DigiSport3FHDRO/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Digi Sport 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Digi_Sport_logo.svg/200px-Digi_Sport_logo.svg.png" group-title="Europe Sports",Digi Sport 4 HD
+http://lb.wisp.cat/lb0/DigiSport4FHDRO/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Canal Motor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Canal%2B_logo.svg/200px-Canal%2B_logo.svg.png" group-title="Europe Sports",Canal Motor
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport+ Qazaqstan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kazakh_sport.png/200px-Kazakh_sport.png" group-title="Europe Sports",Sport+ Qazaqstan
+http://lb.wisp.cat/lb0/84416/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Match Football 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Match_TV_logo.svg/200px-Match_TV_logo.svg.png" group-title="Europe Sports",Матч! Футбол 1 HD
+http://lb.wisp.cat/lb0/MATCH_FUTBOLL_1_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Match Football 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Match_TV_logo.svg/200px-Match_TV_logo.svg.png" group-title="Europe Sports",Матч! Футбол 2 HD
+http://lb.wisp.cat/lb0/MATCH_FUTBOLL_2_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Match Football 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Match_TV_logo.svg/200px-Match_TV_logo.svg.png" group-title="Europe Sports",Матч! Футбол 3 HD
+http://lb.wisp.cat/lb0/MATCH_FUTBOLL_3_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Match Premier HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Match_TV_logo.svg/200px-Match_TV_logo.svg.png" group-title="Europe Sports",Матч! Премьер HD
+http://lb.wisp.cat/lb0/MATCH_PREMIER_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Okko Futbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Okko_logo.svg/200px-Okko_logo.svg.png" group-title="Europe Sports",Окко Футбол
+http://lb.wisp.cat/lb0/Okko_futbol/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="RAI Sport+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/RAI_Sport_-_Logo_2016.svg/200px-RAI_Sport_-_Logo_2016.svg.png" group-title="Europe Sports",RAI Sport+ HD
+http://lb.wisp.cat/lb0/RAI_SPORTplus_HD_IT/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Ziggo Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ziggo_Sport_logo.svg/200px-Ziggo_Sport_logo.svg.png" group-title="Europe Sports",Ziggo Sport 2
+http://lb.wisp.cat/lb0/Ziggo_sport_2/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Sportdigital Fussball HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Sportdigital_Fussball_logo.png/200px-Sportdigital_Fussball_logo.png" group-title="Europe Sports",Sportdigital Fussball HD
+http://lb.wisp.cat/lb0/DE_SPORTDIGITAL_HD/index.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Sky Sport Premier League HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sky_Sports_logo_2020.svg/200px-Sky_Sports_logo_2020.svg.png" group-title="Europe Sports",Sky Sport Premier League HD
+http://lb.wisp.cat/lb0/DE_Sky_Sport_Premier_League/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Sky Sport Top Event DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sky_Sports_logo_2020.svg/200px-Sky_Sports_logo_2020.svg.png" group-title="Europe Sports",Sky Sport Top Event DE
+http://lb.wisp.cat/lb0/DE_Sky_Sport_Top_Event/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Sky Sport Tennis HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sky_Sports_logo_2020.svg/200px-Sky_Sports_logo_2020.svg.png" group-title="Europe Sports",Sky Sport Tennis HD
+http://lb.wisp.cat/lb0/DE_Sky_Sport_Tennis_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Sky Sport F1 DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sky_Sports_logo_2020.svg/200px-Sky_Sports_logo_2020.svg.png" group-title="Europe Sports",Sky Sport F1
+http://lb.wisp.cat/lb0/DE_Sky_Sport_F1/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Sky Sports 1 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sky_Sports_logo_2020.svg/200px-Sky_Sports_logo_2020.svg.png" group-title="Europe Sports",Sky Sports 1 UHD
+http://lb.wisp.cat/lb0/Sky_Sport_1_UHD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Sky Sports 2 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sky_Sports_logo_2020.svg/200px-Sky_Sports_logo_2020.svg.png" group-title="Europe Sports",Sky Sports 2 UHD
+http://lb.wisp.cat/lb0/Sky_Sport_2_UHD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Sky Sports F1 HD UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sky_Sports_logo_2020.svg/200px-Sky_Sports_logo_2020.svg.png" group-title="Europe Sports",Sky Sports F1 HD UK
+http://lb.wisp.cat/lb0/Sky_Sport_F1_HD_UK/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Sport1 UA 1 HD" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Sport1Ukraine.png" group-title="Europe Sports",Sport1 UA 1 HD
+http://lb.wisp.cat/lb0/Sport1_UA_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_Logo.svg/200px-DAZN_Logo.svg.png" group-title="Europe Sports",DAZN 1 HD
+http://lb.wisp.cat/lb0/DAZN_1_ES/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_Logo.svg/200px-DAZN_Logo.svg.png" group-title="Europe Sports",DAZN 2 HD
+http://lb.wisp.cat/lb0/DAZN_2_ES/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="TNT Sport 4 UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/TNT_Sports_logo_2023.svg/200px-TNT_Sports_logo_2023.svg.png" group-title="Europe Sports",TNT Sport 4 UK
+http://lb.wisp.cat/lb0/BT_sport4/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Suspilne Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Suspilne_Sport_logo.svg/200px-Suspilne_Sport_logo.svg.png" group-title="Europe Sports",Suspilne Sport HD
+http://lb.wisp.cat/lb0/Suspilne_Sport_HD/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Sportivny HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Eurosport_1_Logo_2015.svg/200px-Eurosport_1_Logo_2015.svg.png" group-title="Europe Sports",Sportivny HD
+http://lb.wisp.cat/lb0/eurosportgoldhd/video.m3u8?token=AUSnMTD
+
+#EXTINF:-1 tvg-id="Extreme Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Extreme_Sports_Channel_logo.svg/200px-Extreme_Sports_Channel_logo.svg.png" group-title="Europe Sports",Extreme Sports
+http://lb.wisp.cat/lb0/Extreme_Sports/video.m3u8?token=AUSnMTD
 
 
 # =========================
