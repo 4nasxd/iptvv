@@ -3,12 +3,8 @@
 #               Temp
 ############################################
 #EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Alnassr VS AlHilal
-https://a3.kora-plus.dad/watch/alwan1.m3u8?token=4Vqmm00HJSJvdumCDCzaOQ&expires=1778614565
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Alnassr VS AlHilal 2
-https://scontent.ftng3-2.fna.fbcdn.net/hvideo-prn-hil/_nc_cat-1/_nc_sr_t-4/v/rASdbhlFBZqCQBbNAbIL-6Uwm862gmc-q87sg5Ck8ZnJZKA/_nc_ohc-dMQyRm1H4BsQ7kNvwEPk0Cv/live-dash/dash-abr-ibr-audio/122127367263196120.mpd?_nc_zt=28&aaf=1&ccb=2-4&ms=m_CTPAL&replica=1&sc_t=1&oh=00_Af6KPobdSZo2PLr-R857VL-fz-UVv7gw4j4076y1NRgC4w&oe=6A054948
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Alnassr VS AlHilal 3
-
-https://scontent.ftng3-2.fna.fbcdn.net/v/t39.30808-6/351302793_908941370403823_8982638292460147925_n.jpg?stp=c53.0.558.558a_cp6_dst-jpg_s50x50_tt6&_nc_cat=1&ccb=1-7&_nc_sid=33e84f&_nc_ohc=X8aW3KdZNlAQ7kNvwERBvKh&_nc_oc=AdquGApQkBvXYKNODJB1fPZni4GkenzleDaAKNgUcn0846Ld99AL1clctX1P89e13a4&_nc_zt=23&_nc_ht=scontent.ftng3-2.fna&_nc_gid=xO6JyBNJaW75cGfQ9VjEMg&_nc_ss=7a2a8&oh=00_Af5-8omZ7caPo18MhkXczgiRsNfWKxSwyPluGmlt2RleIA&oe=6A093E76
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/JJk1-XjkSGQGKLshcmsS42fBOaQ-AtZRwQvKyOTab7qP137xFBMLLSaW1C8LFcyPWpXc0utkAHhs9ZwPBZJdAA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_delta.m3u8?type=live#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Alnassr VS AlHilal 2
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/JJk1-XjkSGQGKLshcmsS42fBOaQ-AtZRwQvKyOTab7qP137xFBMLLSaW1C8LFcyPWpXc0utkAHhs9ZwPBZJdAA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 # =========================
 # BEin Sports  
 # =========================
