@@ -61,63 +61,59 @@ https://agelis.voglempanis.online/premium99/index.m3u8
 # BEIN SPORTS MAX
 # =========================
 
-#EXTINF:-1 tvg-id="BEIN" group-title="BEIN SPORTS MAX",beIN Sports 11 HD
+#EXTINF:-1 tvg-id="BEIN" group-title="BEIN SPORTS MAX",beIN Sports 11 MAX HD
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36","Referer":"https://x.com/"}
 https://het000.4rouwanda-shop.store/live/918454578001/index.m3u8?t=PrimeTvPlus
 
-#EXTINF:-1 tvg-id="BEIN" group-title="BEIN SPORTS MAX",beIN Sports 12 HD
+#EXTINF:-1 tvg-id="BEIN" group-title="BEIN SPORTS MAX",beIN Sports 12 MAX HD
 https://het000.4rouwanda-shop.store/live/918454578001/index.m3u8?t=PrimeTvPlus|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36&Referer=https://x.com/
-
-# =========================
-# BEIN SPORTS MAX
-# =========================
 
 #EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
 https://het000.4rouwanda-shop.store/live/918454578001/index.m3u8?t=PrimeTvPlus
 
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 2 HD
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 2 MAX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
 https://het000.4rouwanda-shop.store/live/69854211/index.m3u8?t=PrimeTvPlus
 
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 3 HD
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 3 MAX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
 https://het000.4rouwanda-shop.store/live/645587700/index.m3u8?t=PrimeTvPlus
 
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 4 HD
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 4 MAX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
 https://het000.4rouwanda-shop.store/live/9787488847/index.m3u8?t=PrimeTvPlus
 
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 5 HD
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 5 MAX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
 https://het000.4rouwanda-shop.store/live/610303030/index.m3u8?t=PrimeTvPlus
 
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 6 HD
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 6 MAX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
 https://het000.4rouwanda-shop.store/live/1515000000/index.m3u8?t=PrimeTvPlus
 
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 7 HD
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 7 MAX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
 https://het000.4rouwanda-shop.store/live/33523510/index.m3u8?t=PrimeTvPlus
 
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 1 SD
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 1 MAX SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
 http://het000.4rouwanda-shop.store/live/978480008877005/index.m3u8?t=PrimeTvPlus
 
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 2 SD
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 2 MAX SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
 http://het000.4rouwanda-shop.store/live/10011244/index.m3u8?t=PrimeTvPlus
 
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 3 SD
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="BEIN SPORTS MAX",beIN Sports 3 MAX SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://x.com/
 http://het000.4rouwanda-shop.store/live/161988840/index.m3u8?t=PrimeTvPlus
