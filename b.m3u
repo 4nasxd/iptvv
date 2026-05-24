@@ -2,10 +2,10 @@
 ############################################
 #               Temp
 ############################################
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Maroc U17
-https://a1.kora-plus.dad/watch/xtra4.m3u8?token=B7qlqw7ChYYGTqPBJQdTxQ&expires=1779647386
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",FAR
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/w3Qoj9S5tEP_zDYZcMridIRGklsbq_9liciJfofwn9Hn2P3ug9K5N2AE2Tb9ZiMtqCZURlZuOsM-THRzIbhjOg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 #EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Maroc U17 2
-https://5hh59iw6byp2.54434687.net:8443/hls/fklzqpaedfn7z.m3u8?s=sZpwWc4L97J5xwNWhWyvzA&e=1779665484
+
 #EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Maroc U17 3
 
 # Bein Sports  
