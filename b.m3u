@@ -2,10 +2,10 @@
 ############################################
 #               Temp
 ############################################
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",FAR
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/w3Qoj9S5tEP_zDYZcMridIRGklsbq_9liciJfofwn9Hn2P3ug9K5N2AE2Tb9ZiMtqCZURlZuOsM-THRzIbhjOg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Maroc U17 2
-
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Conference League Anas 2
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/GNBTnVdsV6EEOKPlq6ReJ4zDHO8yYNJrpmJoXVQa3fp4GJMj_ILxrcPq8VRE5D0OZBTrzsWZ8SF1oZT1YMoiDw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Conference League Anas 2
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/QFAFXUyKK9PrjT94rBOaokksySdf09QdbLZyq13kqXQH8orgNnwBiHnAb_5ZOaaEbFExq1qDdodd5YA_YE8saA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 #EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Maroc U17 3
 
 # Bein Sports  
