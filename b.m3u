@@ -4,8 +4,8 @@
 ############################################
 #EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Germany VS Finland
 #EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Final Champions League Anas 2
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Final Champions League Anas 3
-
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Algeria
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/d3Zz7G6_1ObTWzu7X1S1AJr-cUJA72NOOkWS94sZ106ChYQPT4TXRWRTYeICIr-zouudPEkPDi7aIIt1wsB--g/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 #EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Algeria
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/d3Zz7G6_1ObTWzu7X1S1AJr-cUJA72NOOkWS94sZ106ChYQPT4TXRWRTYeICIr-zouudPEkPDi7aIIt1wsB--g/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 # Bein Sports  
