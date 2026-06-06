@@ -2,13 +2,13 @@
 ############################################
 #               Temp
 ############################################
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Germany VS Finland
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Final Champions League Anas 2
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Algeria
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/d3Zz7G6_1ObTWzu7X1S1AJr-cUJA72NOOkWS94sZ106ChYQPT4TXRWRTYeICIr-zouudPEkPDi7aIIt1wsB--g/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Algeria
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/d3Zz7G6_1ObTWzu7X1S1AJr-cUJA72NOOkWS94sZ106ChYQPT4TXRWRTYeICIr-zouudPEkPDi7aIIt1wsB--g/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
-# Bein Sports  
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Germany VS America
+https://fastly.live.brightcove.com/6384149663112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODQxNDk2NjMxMTIifQ.0yJpNEV0ZSId11mURgeaOhXZvov07Uj-VI_0qt0LLSQ/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Germany VS America 2
+https://d7r14h19w28d.cloudfront.net/slot/2/fronts.woff2
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Portugal VS Chile
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/LH1saVKFlYVk8wjAbQHa5DLK6QIhivcj7PcUOtkwKIBxVT9HoitpEw8MkEiISqAbMBIYq4Me9_Y0fkTUKYoXOA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live# Bein Sports  
 # =========================
 #EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Bein Sports",Bein Sports 1
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8
