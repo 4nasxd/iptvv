@@ -2,10 +2,14 @@
 ############################################
 #               Temp
 ############################################
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Germany VS America
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Brazil 1
-#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Morocco
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Bein MAX 1 
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/puKBBtYm1DV0YjUSkweNQs7M-DtnfRr6oGlqKhuiDJbeOO4YWELWAYCqnSPsTBFTCP5I1yRu9-Q_5Pcr54IpwQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Max 2
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/h6T7bZ0AvqgNG6XoTNV9P_0FrTqrIkgZZ6aPQlJ8jzfhahwudRXkMIi-3-cXU4LNhY4FWV_-W9u53fPFEqlWfw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Max 1 Option 2
+https://lcdn-2.kumo.social/media/pass/fox/f35fed21fa194426.m3u8
+#EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Max 2 Opt 2
+https://lcdn-2.kumo.social/media/pass/fox/da6270445ba88b30.m3u8
 https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/YhT-rpBtreFpLJrPPOK8oEVtmaqapMITf8Bzl91pH1EnGgwHu2E4Q_oQq4JsG-0pgexwtj_fW6yBXjfCB9euig/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 # =========================
 #EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Bein Sports",Bein Sports 1
