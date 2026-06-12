@@ -3,14 +3,109 @@
 #               Temp
 ############################################
 #EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Bein MAX 1 
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/puKBBtYm1DV0YjUSkweNQs7M-DtnfRr6oGlqKhuiDJbeOO4YWELWAYCqnSPsTBFTCP5I1yRu9-Q_5Pcr54IpwQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 #EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Max 2
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/h6T7bZ0AvqgNG6XoTNV9P_0FrTqrIkgZZ6aPQlJ8jzfhahwudRXkMIi-3-cXU4LNhY4FWV_-W9u53fPFEqlWfw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
 #EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Max 1 Option 2
-https://lcdn-2.kumo.social/media/pass/fox/f35fed21fa194426.m3u8
 #EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Live Anas",Max 2 Opt 2
-https://lcdn-2.kumo.social/media/pass/fox/da6270445ba88b30.m3u8
-https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/YhT-rpBtreFpLJrPPOK8oEVtmaqapMITf8Bzl91pH1EnGgwHu2E4Q_oQq4JsG-0pgexwtj_fW6yBXjfCB9euig/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
+# =========================
+# World Cup 2026 Anas
+# =========================
+
+#EXTINF:-1 tvg-id="BN_MAX_1" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 1 - 240p
+http://135.125.196.66//bn_max_1_240/index.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_1" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 1 - 480p
+http://135.125.196.66//bn_max_1_480/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_1" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 1 - 576p
+http://135.125.196.66//bn_max_1_576/index.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_1" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 1 - 720p
+http://135.125.196.66//bn_max_1_720/index.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_1" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 1 - 720p (Alt)
+http://135.125.196.66//bn_max_1_720/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_1" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 1 - HD (H265)
+http://135.125.196.66//bn_max_1_h265_hd/index.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_1" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 1 - 4K
+http://135.125.196.66//s2_bn_max_1_4k/index.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_1" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 1 - 4K (Alt)
+http://135.125.196.66//s2_bn_max_1_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_1" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 1 - 4K (H265)
+http://135.125.196.66//bn_max_1_h265_4k/index.m3u8
+
+#EXTINF:-1 tvg-id="BN_MAX_2" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 2 - 480p
+http://135.125.196.66//bn_max_2_480/index.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_2" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 2 - 480p (Alt)
+http://135.125.196.66//bn_max_2_480/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_2" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 2 - 720p
+http://135.125.196.66//bn_max_2_720/index.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_2" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 2 - 720p (Alt)
+http://135.125.196.66//bn_max_2_720/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_2" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 2 - HD (H265)
+http://135.125.196.66//bn_max_2_h265_hd/index.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_2" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 2 - HD (H265 Alt)
+http://135.125.196.66//bn_max_2_h265_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_2" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 2 - 4K
+http://135.125.196.66//s2_bn_max_2_4k/index.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_2" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 2 - 4K (Alt)
+http://135.125.196.66//s2_bn_max_2_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_2" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 2 - 4K (H265)
+http://135.125.196.66//bn_max_2_h265_4k/index.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_2" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 2 - 4K (H265 Alt)
+http://135.125.196.66//bn_max_2_h265_4k/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BN_MAX_3" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 3 - 240p
+http://135.125.196.66//bn_max_3_240/index.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_3" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 3 - 240p (Alt)
+http://135.125.196.66//bn_max_3_240/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_3" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 3 - 480p
+http://135.125.196.66//bn_max_3_480/index.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_3" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 3 - 480p (Alt)
+http://135.125.196.66//bn_max_3_480/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_3" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 3 - 576p
+http://135.125.196.66//bn_max_3_576/index.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_3" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 3 - 576p (Alt)
+http://135.125.196.66//bn_max_3_576/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_3" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 3 - 720p
+http://135.125.196.66//bn_max_3_720/index.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_3" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 3 - 720p (Alt)
+http://135.125.196.66//bn_max_3_720/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_3" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 3 - HD (H265)
+http://135.125.196.66//bn_max_3_h265_hd/index.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_3" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 3 - HD (H265 Alt)
+http://135.125.196.66//bn_max_3_h265_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_3" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 3 - 4K (H265)
+http://135.125.196.66//bn_max_3_h265_4k/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_3" tvg-logo="" group-title="World Cup 2026 Anas",S2 BN MAX 3 - SD
+http://135.125.196.66//s2_bn_max_3_sd/index.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_3" tvg-logo="" group-title="World Cup 2026 Anas",S2 BN MAX 3 - SD (Alt)
+http://135.125.196.66//s2_bn_max_3_sd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BN_MAX_4" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 4 - 240p
+http://135.125.196.66//bn_max_4_240/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_4" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 4 - 480p
+http://135.125.196.66//bn_max_4_480/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_4" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 4 - 576p
+http://135.125.196.66//bn_max_4_576/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_4" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 4 - 720p
+http://135.125.196.66//bn_max_4_720/index.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_4" tvg-logo="" group-title="World Cup 2026 Anas",BN MAX 4 - 720p (Alt)
+http://135.125.196.66//bn_max_4_720/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_4" tvg-logo="" group-title="World Cup 2026 Anas",S2 BN MAX 4 - HD
+http://135.125.196.66//s2_bn_max_4_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_4" tvg-logo="" group-title="World Cup 2026 Anas",S2 BN MAX 4 - FHD
+http://135.125.196.66//s2_bn_max_4_fhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_4" tvg-logo="" group-title="World Cup 2026 Anas",S2 BN MAX 4 - 4K
+http://135.125.196.66//s2_bn_max_4_4k/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BN_MAX_5" tvg-logo="" group-title="World Cup 2026 Anas",S2 BN MAX 5 - HD
+http://135.125.196.66//s2_bn_max_5_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_5" tvg-logo="" group-title="World Cup 2026 Anas",S2 BN MAX 5 - FHD
+http://135.125.196.66//s2_bn_max_5_fhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BN_MAX_5" tvg-logo="" group-title="World Cup 2026 Anas",S2 BN MAX 5 - 4K
+http://135.125.196.66//s2_bn_max_5_4k/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BN_MAX_6" tvg-logo="" group-title="World Cup 2026 Anas",S2 BN MAX 6 - 4K
+http://135.125.196.66//s2_bn_max_6_4k/tracks-v1a1/mono.m3u8
+
+
 # =========================
 #EXTINF:-1 tvg-id="BEIN" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Bein_sport_logo.svg/1280px-Bein_sport_logo.svg.png" group-title="Bein Sports",Bein Sports 1
 https://pub-5d579cce1f8f4f8faf00f60ef6a6b791.r2.dev/Bein1.m3u8
